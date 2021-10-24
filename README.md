@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👋Hi,I'm @jo95ztap 
 
+- 🔭 I’m currently developing firmware in C,C++ for IoT.
+- 👀 I’m interested in Embedded Firmware Engineering
+- 🌱 I’m currently learning comunication protocols, machine learning(Python)
+- 📫 Reach me here or on [LinkedIn](https://www.linkedin.com/in/jorgevizarraga/)
 <!--
 **jo95ztap/jo95ztap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
